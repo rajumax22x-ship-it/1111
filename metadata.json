@@ -1,0 +1,6 @@
+{
+  "name": "FRIDAY AI Assistant",
+  "description": "Advanced AI assistant with multimodal optical vision, bilingual voice interaction in Hindi and English, conversational intelligence, and device automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
